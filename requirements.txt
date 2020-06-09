@@ -6,3 +6,4 @@ ipywidgets
 jupyterthemes
 pdfrw
 scikit-learn
+setuptools
