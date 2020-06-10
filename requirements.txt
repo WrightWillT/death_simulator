@@ -7,4 +7,3 @@ jupyterthemes
 pdfrw
 scikit-learn
 setuptools
-random
