@@ -20,5 +20,5 @@ setup(name='deathsimulator',
       #          'scikit-learn',
       #          'setuptools'
       #         ],
-      install_requires=install reqs
+      install_requires=install_reqs
      )
