@@ -1,3 +1,5 @@
+![Python package](https://github.com/WrightWillT/death_simulator/workflows/Python%20package/badge.svg)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WrightWillT/death_simulator/master?filepath=%2Fdeath_simulator%2Finteractive_frontend.ipynb)
 # Death Simulator
 Team: Thomas Winegarden, James Lee, Aniruddha Dutta, Will Wright | Course project for DATA 515 in the UW MSDS program
 ### Background:
