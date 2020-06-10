@@ -7,5 +7,4 @@ jupyterthemes
 pdfrw
 scikit-learn
 setuptools
-datetime
 random
