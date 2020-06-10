@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 
 from distutils.core import setup
-from pip.req import parse_requirements
+#from pip.req import parse_requirements
 
-install_reqs = parse_requirements('requirements.txt', session='hack')
+#install_reqs = parse_requirements('requirements.txt', session='hack')
 
 setup(name='deathsimulator',
       version='1.0',
@@ -21,5 +21,14 @@ setup(name='deathsimulator',
       #          'scikit-learn',
       #          'setuptools'
       #         ],
-      install_requires=install_reqs
+      install_requires=['numpy==1.16.*',
+                        'matplotlib==3.*',
+                        'seaborn==0.8.1',
+                        'pandas',
+                        'ipywidgets',
+                        'jupyterthemes',
+                        'pdfrw',
+                        'scikit-learn',
+                        'setuptools'
+                       ]
      )
