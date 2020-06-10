@@ -20,15 +20,15 @@ setup(name='deathsimulator',
                         'pdfrw',
                         'scikit-learn',
                         'setuptools'
-                       ],
-      packages=['numpy', 
-                'matplotlib', 
-                'seaborn', 
-                'pandas', 
-                'ipywidgets', 
-                'jupyterthemes',
-                'pdfrw',
-                'scikit-learn',
-                'setuptools'
-               ]
+                       ]
+      #packages=['numpy', 
+      #          'matplotlib', 
+      #          'seaborn', 
+      #          'pandas', 
+      #          'ipywidgets', 
+      #          'jupyterthemes',
+      #          'pdfrw',
+      #          'scikit-learn',
+      #          'setuptools'
+      #         ]
      )
