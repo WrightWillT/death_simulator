@@ -11,16 +11,6 @@ setup(name='deathsimulator',
       author='William Wright',
       author_email='wright.will.t@gmail.com',
       url='https://github.com/WrightWillT/death_simulator',
-      #packages=['numpy', 
-      #          'matplotlib', 
-      #          'seaborn', 
-      #          'pandas', 
-      #          'ipywidgets', 
-      #          'jupyterthemes',
-      #          'pdfrw',
-      #          'scikit-learn',
-      #          'setuptools'
-      #         ],
       install_requires=['numpy==1.16.*',
                         'matplotlib==3.*',
                         'seaborn==0.8.1',
@@ -30,5 +20,15 @@ setup(name='deathsimulator',
                         'pdfrw',
                         'scikit-learn',
                         'setuptools'
-                       ]
+                       ],
+      packages=['numpy', 
+                'matplotlib', 
+                'seaborn', 
+                'pandas', 
+                'ipywidgets', 
+                'jupyterthemes',
+                'pdfrw',
+                'scikit-learn',
+                'setuptools'
+               ]
      )
